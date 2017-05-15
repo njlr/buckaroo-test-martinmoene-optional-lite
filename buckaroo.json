@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-martinmoene-optional-lite",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "martinmoene/optional-lite": "2.0.0"
+  }
+}
